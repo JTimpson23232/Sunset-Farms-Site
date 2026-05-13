@@ -323,6 +323,7 @@ em,.italic{font-family:var(--serif);font-style:italic;font-weight:400}
 .page-hero__content{position:relative;z-index:1;max-width:var(--max);margin:0 auto;padding:0 var(--gutter) clamp(48px,6vw,80px);width:100%}
 .page-hero h1{color:var(--cream);max-width:18ch;font-weight:300;text-shadow:0 2px 16px rgba(0,0,0,.45)}
 .page-hero__sub{text-shadow:0 1px 8px rgba(0,0,0,.35)}
+.page-hero__sub strong{font-weight:700;color:#fff}
 .page-hero .hero__eyebrow{color:var(--cream);text-shadow:0 1px 8px rgba(0,0,0,.6)}
 .page-hero .hero__eyebrow::before{background:var(--cream)}
 .page-hero__sub{margin-top:18px;max-width:60ch;color:rgba(245,240,225,.85);font-size:clamp(1.05rem,1.3vw,1.2rem);font-weight:300}
